@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Signorelli"
+  given-names: "Nicholas"
+- family-names: "Keegan-Treloar"
+  given-names: "Jamie"
+title: "Quaternionic-MPinverse"
+version: 1.0.0
+date-released: 2024-05-13
+url: "https://github.com/Nick-Signorelli/Quaternionic-MPinverse"
